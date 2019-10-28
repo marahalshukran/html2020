@@ -1,0 +1,33 @@
+body{
+	background: pink;
+	
+
+
+	background-image: url("D.png");
+	background-image: url("IMG.png");
+	background-repeat: no-repeat,
+    background-position: center;
+    background-attachment: fixed;}
+    p {
+    text-align: center;
+    text-transform: lowercase;
+    letter-spacing: 2px;
+    font-style: italic ;
+    text-shadow: 2px 2px black;
+    font-family: 'Big Shoulders Text', cursive;
+    font-weight: 300px;
+    }
+     div{
+     	color: white;
+     	background: green;
+     	text-decoration: none;
+
+     }
+
+
+
+
+}
+	
+
+
